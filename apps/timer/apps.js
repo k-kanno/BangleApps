@@ -1,5 +1,3 @@
-E.showMessage("My\nSimple\nApp","My App")
-
 var counter = 30;
 
 function countDown() {
